@@ -1,0 +1,105 @@
+Getting Started with GITHUB  
+
+
+Created by: 
+-	Adamu Abubakar Isa
+-	Mohammed Mansur IBRAHIM 
+
+What is a GitHub?
+Is a web-based hosting service for software development project that use the Git revision control systems, the application offer both paid plan for private repository and free personal account for open source projects.
+Our Manual would give a clear guide on how to perform tasks with GitHub such as:
+•        How to Download Github and Install it on your System.	
+•        How to create an account with GitHub application.
+•        How to create a Repository.
+•        How to add a collaborator.
+•        How to create a commit.
+•        How to edit a file in a commit.
+•        How collaborator can access notification of editing.
+•        How to create a branch.
+•	Example with GITHUB PAGES “Automatic page generator “.
+
+1-	Download the application: 
+Download GITHUB application on your system from www.github.com by clicking the button “Download GitHub for windows”.
+
+
+ 
+
+
+2-	 Install the application on your system:
+•	After the download of the application start the installation by clicking the Run button
+
+
+
+
+ 
+
+
+
+•	Confirm the installation by clicking the Install button and wait for the end of installation
+ 
+ 
+•	After installation run the application GITHUB on your desktop
+ 
+
+
+3 – Create an account and confirm it on www.github.com:
+-	Choose a username
+-	Enter your Email
+-	Choose a password
+-	Click on Sigh up for GITHUB
+ 
+•	Then you have to confirm your Email address clicking on * setting then Emails and click on verify my Email address , check your Inbox and confirm by clicking the link you will receive.
+ 
+
+4	– Create repository and commit a new file: 
+•	Create repository clicking on New repository, choose an available repository name then click on Create repository 
+•	Click on Setup in desktop if you want to check it on your GitHub application
+
+ 
+•	Access to gitignore to upload a text or code. you can add a readme, or License files as well.
+•	Copy or write the file you want to commit.
+ 
+•	Click on Commit new file.  
+5	– Add collaborators: 
+•	Access to the specific repository and click on settings
+ 
+•	Click on the option Collaborators and find your collaborator by entering his Email or Username
+ 
+•	Your collaborator can have access to the repository and check the files uploaded on it, but he cannot edit it.
+•	You can allow your collaborator to Edit your files By clicking on options and mark the option Restrict edits to the collaborators only .
+ 
+6	– Edit and notifications :
+•	ALMANSUR59 the collaborator receive notifications about the repository and he can have access to read and modify the File1 in AimanMansurTest repository
+ 
+
+
+
+
+•	Almansur59 user will edit the File1 in AimanAlmansurTest repository by entering to the repository and clicking on Edit
+ 
+•	Almansur59 edit the File1 by writing “Hello collaborator am making some progress here”, and click on Commit changes
+ 
+•	By opening the GitHub website or the application, you can read about notifications and changes done by Almansur59
+ 
+7	– How to create a branch: 
+•	A branch can help different collaborators to work in the same project at the same time.
+•	To create a branch access to your specific repository “ AimanMansurTest” , click on branch and choose a name for your new branch e.g“BranchTest2”. 
+
+
+
+8	- Example with GITHUB PAGES “Automatic page generator “:
+•	Access to your specific repository click on settings.
+•	Select on GitHub pages and click on automatic pages generator then continue to layout
+ 
+
+
+•	Choose a design for your website and then click on publish
+•	You will get a new branch in your repository named  gh-pages
+•	Enter to the File inex.html make some modifications.
+ 
+•	After having committed the changes click on Open 
+ 
+•	You can check on your github application the changes and the different versions in the History menu
+ 
+
+
